@@ -1,6 +1,10 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
+## The functions in this file are for creating a matrix object
+## that can cache its own inverse, and then solving/caching/getting
+## the inverse of the matrix.
+
 ## Write a short comment describing this function
 
 ## When supplied a square invertible matrix as the argument,
